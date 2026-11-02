@@ -1,0 +1,13 @@
+assets/
+原始资产/
+验收/
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
